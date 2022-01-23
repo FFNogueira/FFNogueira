@@ -1,11 +1,11 @@
 # About me
+Student at Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE.
 
 ## I’m currently working on ...
-nothing in particular.
-
+Honing my programming skills.
 
 ## I’m interested in...
-Back-end and Front-end programming.
+Back-end and Front-end development.
 
 Arduino and STM32 Microcontrollers.
 
